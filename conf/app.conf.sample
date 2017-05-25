@@ -1,0 +1,5 @@
+appname = squeak-soil
+httpport = 8102
+runmode = dev
+soilLayer = https://host/arcgis/rest/services/dev/soil/MapServer/0/query
+soilSuggestionLayer = https://host/arcgis/rest/services/dev/soil/MapServer/1/query
